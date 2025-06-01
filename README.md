@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 1: Data Cleaning and Preprocessing
 
 ## Dataset Used:
@@ -19,3 +20,6 @@ Cleaned the dataset by:
 
 ## Output:
 - Final cleaned file: `cleaned_marketing_campaign.csv`
+=======
+# CleaningDataset
+>>>>>>> f6b1c4f65a7c8618b4468bd0865e7bd26f87b8a0
